@@ -5,3 +5,8 @@
 .profile-img{
    max-width: 300px;
 }
+.contact{
+   height: 400px;
+   background-color: rgb(4, 37, 37);
+   color: lightskyblue;
+}
