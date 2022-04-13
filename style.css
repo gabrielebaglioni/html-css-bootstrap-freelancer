@@ -54,7 +54,8 @@ height: 150px;
 }
 footer a{
    width: 40px;
-   font-size: 20px;
+   font-size: 25px;
    color: inherit;
    text-decoration: none;
+   margin: 0 5px;
 }
